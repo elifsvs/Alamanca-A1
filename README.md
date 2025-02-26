@@ -1,2 +1,15 @@
 # Alamanca-A1
 Almanca konu anlatımları vb.çalışma alanları
+
+Konular
+1. W FRAGEN
+2. ARTİKELLER
+3. SAYILAR VE OKUNUSLARI
+4. SAATLER
+5. GENİŞ ZAMAN FİİL CEKİMLERİ
+6. AYRILABİLEN FİİLLER
+7. AKKUSATİV
+8. DATİV
+9. GENETİV
+10. ZAMAN EDATLARI
+    
